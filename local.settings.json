@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AccessToken": "",
+    "emailServer": "smtp.sendgrid.net",
+    "emailPort": "587",
+    "emailCredentialUserName": "",
+    "emailCredentialPassword": "",
+    "fromAddress": ""
+  }
+  }
